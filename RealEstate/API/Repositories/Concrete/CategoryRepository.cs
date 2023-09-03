@@ -48,5 +48,19 @@ namespace API.Repositories.Concrete
             }
 
         }
+
+        public async void UpdateCategoryAsync(UpdateCategoryDTO updateCategoryDTO)
+        {
+            string query = "UPDATE CATEGORY SET NAME=@categoryName, @STATUS=categoryStatus where ID=@ID";
+            var parameters = new DynamicParameters();
+            parameters.Add("@categoryName",updateCategoryDTO.NAME);
+            parameters.Add("@categoryStatus", updateCategoryDTO.STATUS);
+            parameters.Add("@ID", updateCategoryDTO.ID);
+            using (var connection=_context.CreateConnection())
+            {
+                await connection.ExecuteAsync(query, parameters);
+            }
+
+        }
     }
 }

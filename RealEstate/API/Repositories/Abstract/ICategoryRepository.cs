@@ -7,5 +7,6 @@ namespace API.Repositories.Abstract
         public Task<List<ResultCategoryDTO>> GetAllAsync();
         void AddCategoryAsync(CreateCategoryDTO categoryDTO);
         void  DeleteCategoryAsync(int id);
+        void UpdateCategoryAsync(UpdateCategoryDTO updateCategoryDTO);
     }
 }

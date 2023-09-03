@@ -34,5 +34,11 @@ namespace API.Controllers
             _categoryRepository.DeleteCategoryAsync(id);
             return Ok("Kategori silindi");
         }
+        [HttpPut]
+        public async Task<ActionResult> UpdateCategory(UpdateCategoryDTO updateCategoryDTO)
+        {
+            _categoryRepository.UpdateCategoryAsync(updateCategoryDTO);
+            return Ok("Kategori Güncellendi");
+        }
     }
 }
