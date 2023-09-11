@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SgHtDeU8NKAL67YqCO4en2zC9AcmKeQuunxd6lvhHqMxR07PnGgpzHiOhSQuJB3XY4GWQ4HVN0w9G+SUKrr1/g==",
+  "dgSpecHash": "ePxuM/mj1CWryDEzfAMH2rXoCaOM+45G2M2z0PIo/jh0+IaEh/PGWlp3uyBHlsJOkSso4bkNZNJsUTu4w8GGyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\IdentityServer\\DapperDotnetCore7\\RealEstate\\UI\\UI.csproj",
+  "projectFilePath": "C:\\Users\\sduym\\Source\\Repos\\DapperDotnetCore7\\RealEstate\\UI\\UI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
