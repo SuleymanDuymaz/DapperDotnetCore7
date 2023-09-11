@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wgFLkt8wYxewv0kvIYVrr4A+p3mBZ0DzcvupjVd6E+a/ixqJEO9CotSJgZ1hP87hF2C2kItPXWPd6O+zs1vlTw==",
+  "dgSpecHash": "u0fwVipEs3FOQEEnGXh2Ux7+HvI6q930PkuX7WyLeCPHZDTxcI4A5Oj17O42r2At+W6qEwrPqvpgFtJgYUpK+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduym\\Source\\Repos\\DapperDotnetCore7\\RealEstate\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\sduym\\source\\repos\\DapperDotnetCore7\\RealEstate\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sduym\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
