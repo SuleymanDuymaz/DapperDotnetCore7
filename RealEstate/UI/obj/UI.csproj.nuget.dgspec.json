@@ -1,9 +1,10 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sduym\\OneDrive\\Masaüstü\\IdentityServer\\DapperDotnetCore7\\RealEstate\\UI\\UI.csproj": {}
+    "C:\\Users\\sduym\\source\\repos\\DapperDotnetCore7\\RealEstate\\UI\\UI.csproj": {}
   },
   "projects": {
+<<<<<<< HEAD
     "C:\\Users\\sduym\\OneDrive\\Masaüstü\\IdentityServer\\DapperDotnetCore7\\RealEstate\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +13,16 @@
         "projectPath": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\IdentityServer\\DapperDotnetCore7\\RealEstate\\API\\API.csproj",
         "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\IdentityServer\\DapperDotnetCore7\\RealEstate\\API\\obj\\",
+=======
+    "C:\\Users\\sduym\\source\\repos\\DapperDotnetCore7\\RealEstate\\UI\\UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\DapperDotnetCore7\\RealEstate\\UI\\UI.csproj",
+        "projectName": "UI",
+        "projectPath": "C:\\Users\\sduym\\source\\repos\\DapperDotnetCore7\\RealEstate\\UI\\UI.csproj",
+        "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sduym\\source\\repos\\DapperDotnetCore7\\RealEstate\\UI\\obj\\",
+>>>>>>> 6736901e004d7d1827696c467bbff39edc02ab70
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,7 +155,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

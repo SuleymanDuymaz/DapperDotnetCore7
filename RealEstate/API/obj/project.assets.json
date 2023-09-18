@@ -2498,11 +2498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\IdentityServer\\DapperDotnetCore7\\RealEstate\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\sduym\\Source\\Repos\\DapperDotnetCore7\\RealEstate\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\IdentityServer\\DapperDotnetCore7\\RealEstate\\API\\API.csproj",
+      "projectPath": "C:\\Users\\sduym\\Source\\Repos\\DapperDotnetCore7\\RealEstate\\API\\API.csproj",
       "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\IdentityServer\\DapperDotnetCore7\\RealEstate\\API\\obj\\",
+      "outputPath": "C:\\Users\\sduym\\Source\\Repos\\DapperDotnetCore7\\RealEstate\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2567,7 +2567,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -12,13 +12,20 @@ Author URL: http://w3layouts.com
 @await Component.InvokeAsync("_HeadarViewComponentPartial")
 <body>
 
+<<<<<<< HEAD
     <!--header-->
     @await Component.InvokeAsync("_NavbarViewComponentPartial")
     <!--/header-->
+=======
+
+    @await Component.InvokeAsync("_NavbarViewComponentPartial")
+   
+>>>>>>> 6736901e004d7d1827696c467bbff39edc02ab70
     <section class="w3l-about-breadcrumb">
         <div class="breadcrumb-bg breadcrumb-bg-about pt-5">
             <div class="container pt-lg-5 py-3">
             </div>
+<<<<<<< HEAD
         </div>
     </section>
 
@@ -253,6 +260,18 @@ Author URL: http://w3layouts.com
     <!-- //MENU-JS -->
     <!-- bootstrap -->
     <script src="~/starter/assets/js/bootstrap.min.js"></script>
+=======
+        </div>
+    </section>
+
+ 
+    @RenderBody()
+ 
+  
+    @await Component.InvokeAsync("_DefaultFooterComponentPartial")
+
+    @await Component.InvokeAsync("_DefaultScriptComponentPartial")
+>>>>>>> 6736901e004d7d1827696c467bbff39edc02ab70
 
 </body>
 
