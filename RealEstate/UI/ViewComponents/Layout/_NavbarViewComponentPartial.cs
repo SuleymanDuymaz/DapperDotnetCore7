@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace UI.ViewComponents.Layout
+namespace RealEstate_Dapper_UI.ViewComponents.Layout
 {
     public class _NavbarViewComponentPartial:ViewComponent
     {
