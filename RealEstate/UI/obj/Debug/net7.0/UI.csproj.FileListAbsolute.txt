@@ -287,3 +287,4 @@ C:\Users\sduym\Source\Repos\DapperDotnetCore7\RealEstate\UI\obj\Debug\net7.0\UI.
 C:\Users\sduym\Source\Repos\DapperDotnetCore7\RealEstate\UI\obj\Debug\net7.0\UI.genruntimeconfig.cache
 C:\Users\sduym\Source\Repos\DapperDotnetCore7\RealEstate\UI\obj\Debug\net7.0\ref\UI.dll
 >>>>>>> 6736901e004d7d1827696c467bbff39edc02ab70
+C:\Users\sduym\Source\Repos\DapperDotnetCore7\RealEstate\UI\obj\Debug\net7.0\UI.MvcApplicationPartsAssemblyInfo.cs

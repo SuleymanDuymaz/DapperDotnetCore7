@@ -1,9 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "PY/P2XODAkTbADiau5lKijcoN2YDGGRvi5y225hHaH7D+7oN96RYCIZqtR2PbLp80HSTgXcE4RlPaOi1QqbPQg==",
+  "dgSpecHash": "RncowMYqLJ8JBgbtO5oQkxoV8o3oYT4UnMXBmdhzjYxAonP/GNofwf9tgwbhCZKfvll+h7UkO6SwuYTGAYlKxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduym\\OneDrive\\Masaüstü\\IdentityServer\\DapperDotnetCore7\\RealEstate\\UI\\UI.csproj",
+  "projectFilePath": "C:\\Users\\sduym\\Source\\Repos\\DapperDotnetCore7\\RealEstate\\UI\\UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sduym\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -219,11 +218,12 @@
     "C:\\Users\\sduym\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-=======
-  "dgSpecHash": "Z5WdmL8a/AYXDupkOU5JwSiuHS0DV1Zbd75Cq6sBYv2jzapD0EiS+ETv4haGBiIRT+8lQFgqBya1gzZMg/0C/Q==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\sduym\\source\\repos\\DapperDotnetCore7\\RealEstate\\UI\\UI.csproj",
-  "expectedPackageFiles": [],
->>>>>>> 6736901e004d7d1827696c467bbff39edc02ab70
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\sduym\\Source\\Repos\\DapperDotnetCore7\\RealEstate\\UI\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
